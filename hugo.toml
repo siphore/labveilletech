@@ -1,6 +1,6 @@
 archetypeDir           = "archetypes"
 author                 = "admin"
-baseUrl                = "http://localhost:1313"
+baseUrl                = "https://siphore.github.io/labveilletech/"
 buildDrafts            = false
 relativeURLs           = true
 canonifyUrls           = true
