@@ -1,9 +1,10 @@
 +++
 title = "The CSS Reset Contradiction"
 date = "2024-11-20T19:44:02+00:00"
-tags = ["blog"]
+tags = ["design"]
 draft = false
 author = "Jens Oliver Meiert"
+summary = "Role of CSS resets"
 +++
 
 https://www.sitepoint.com/css-reset-contradiction/?utm_source=feedly

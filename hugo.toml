@@ -36,3 +36,8 @@ hrefTargetBlank = true
   #google_analytics_id = ""
   twitter_username = "username"
   paginate = 5
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
