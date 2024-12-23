@@ -13,7 +13,7 @@ En tant que développeur fullstack, je me situe à l’intersection du **design*
 
 ### Ikigai
 
-![My Ikigai](../img/Ikigai.png)
+![My Ikigai](../../img/Ikigai.png)
 
 <br>
 
